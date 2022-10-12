@@ -1,2 +1,2 @@
 # SwiftTraining
- Обучение Swft
+ Обучение Swift
